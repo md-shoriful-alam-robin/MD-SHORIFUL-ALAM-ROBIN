@@ -1,9 +1,16 @@
 <div align="center">
 
-<!-- Dynamic Typing Header -->
-<a href="https://github.com/md-shoriful-alam-robin">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Robin+👋;Full+Stack+Developer+💻;React+%7C+Node.js+%7C+MongoDB;Building+Cool+Stuff+from+Bangladesh+🇧🇩" alt="Typing SVG" />
-</a>
+---
+
+# 👋 Hi There! I'm Robin
+
+## 💻 Full Stack Developer
+
+### 🚀 React | Node.js | MongoDB | JavaScript | TypeScript
+
+**Building Cool Stuff from Bangladesh 🇧🇩**
+
+---
 
 <br/>
 
@@ -98,21 +105,18 @@ const robin = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=md-shoriful-alam-robin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-shoriful-alam-robin&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+| 🎯  | Achievement                          |
+| :-: | :----------------------------------- |
+| 💻  | Passionate Full Stack Developer      |
+| 🚀  | Building scalable web applications   |
+| 📚  | Continuous learner & tech enthusiast |
+| 🤝  | Open source contributor              |
+| ⚡  | Quick problem solver                 |
+| 🎨  | Clean code advocate                  |
 
 </div>
 
