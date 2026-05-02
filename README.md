@@ -82,12 +82,12 @@ const robin = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=md-shoriful-alam-robin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=ffffff" alt="GitHub Stats"/>
+<img width="49%" src="https://project-lris5.vercel.app/api?username=md-shoriful-alam-robin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=ffffff" alt="GitHub Stats"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=md-shoriful-alam-robin&theme=tokyonight&hide_border=true&background=0d1117&stroke=0891b2&ring=0891b2&fire=ff6b6b&currStreakLabel=0891b2" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-shoriful-alam-robin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+<img width="45%" src="https://project-lris5.vercel.app/api/top-langs/?username=md-shoriful-alam-robin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 
 </div>
 
