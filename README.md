@@ -82,13 +82,15 @@ const robin = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-shoriful-alam-robin&show_icons=true&theme=dark&count_private=true)
+<img width="49%" src="https://project-iris5.vercel.app/api?username=md-shoriful-alam-robin&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&ring_color=00ff88" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=md-shoriful-alam-robin&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 
 <br/><br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-shoriful-alam-robin&theme=dark&layout=compact)
+<img width="45%" src="https://project-iris5.vercel.app/api/top-langs/?username=md-shoriful-alam-robin&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 
 </div>
+
 
 ---
 
@@ -97,6 +99,16 @@ const robin = {
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=md-shoriful-alam-robin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-shoriful-alam-robin&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff&hide_border=true" alt="Activity Graph" width="100%"/>
 
 </div>
 
