@@ -82,14 +82,17 @@ const robin = {
 
 <div align="center">
 
-> **Note:** GitHub Stats widget is temporarily unavailable due to API rate limiting. Your contributions are still visible on your [GitHub profile](https://github.com/md-shoriful-alam-robin).
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-shoriful-alam-robin&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
-**📈 Statistics:**
-- **Total Contributions:** 168 (May 7, 2025 - Present)
-- **Current Streak:** 5 days (Jun 1 - Jun 5)
-- **Longest Streak:** 6 days (May 9 - May 14)
+</div>
 
-View full stats on my [GitHub profile](https://github.com/md-shoriful-alam-robin)
+---
+
+## 💻 Top Languages
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-shoriful-alam-robin&theme=dark&layout=compact)
 
 </div>
 
