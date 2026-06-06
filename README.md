@@ -82,12 +82,14 @@ const robin = {
 
 <div align="center">
 
-<img width="49%" src="https://project-lris5.vercel.app/api?username=md-shoriful-alam-robin&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&ring_color=00ff88" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=md-shoriful-alam-robin&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
+> **Note:** GitHub Stats widget is temporarily unavailable due to API rate limiting. Your contributions are still visible on your [GitHub profile](https://github.com/md-shoriful-alam-robin).
 
-<br/><br/>
+**📈 Statistics:**
+- **Total Contributions:** 168 (May 7, 2025 - Present)
+- **Current Streak:** 5 days (Jun 1 - Jun 5)
+- **Longest Streak:** 6 days (May 9 - May 14)
 
-<img width="45%" src="https://project-lris5.vercel.app/api/top-langs/?username=md-shoriful-alam-robin&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+View full stats on my [GitHub profile](https://github.com/md-shoriful-alam-robin)
 
 </div>
 
@@ -98,16 +100,6 @@ const robin = {
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=md-shoriful-alam-robin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-shoriful-alam-robin&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff&hide_border=true" alt="Activity Graph" width="100%"/>
 
 </div>
 
