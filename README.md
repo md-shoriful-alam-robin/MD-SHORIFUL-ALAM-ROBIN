@@ -82,7 +82,7 @@ const robin = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-shoriful-alam-robin&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-shoriful-alam-robin&show_icons=true&theme=dark&count_private=true)
 
 </div>
 
