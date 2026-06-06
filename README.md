@@ -1,236 +1,165 @@
-# 🚀 GitHub Stats - সব জায়গায় লাগানোর সহজ গাইড
-## MD SHORIFUL ALAM ROBIN এর জন্য
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Robin%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20from%20Bangladesh%20🇧🇩&descAlignY=55&descSize=18" width="100%"/>
+
+<br/>
+
+<a href="https://github.com/md-shoriful-alam-robin">
+  <img src="https://komarev.com/ghpvc/?username=md-shoriful-alam-robin&style=for-the-badge&color=0891b2&labelColor=1c1917&label=PROFILE+VIEWS" alt="Profile Views"/>
+</a>
+&nbsp;
+<a href="https://github.com/md-shoriful-alam-robin?tab=followers">
+  <img src="https://img.shields.io/github/followers/md-shoriful-alam-robin?style=for-the-badge&color=0891b2&labelColor=1c1917&label=FOLLOWERS" alt="Followers"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Available%20for-Hire-brightgreen?style=for-the-badge&labelColor=1c1917" alt="Available for Hire"/>
+
+</div>
 
 ---
 
-# ⚡ **সবচেয়ে গুরুত্বপূর্ণ জিনিস - এই URL মনে রাখো:**
+## 🧑‍💻 About Me
 
-```
-https://github-readme-stats.vercel.app/api?username=md-shoriful-alam-robin&show_icons=true&theme=dark&count_private=true
-```
+```javascript
+const robin = {
+  name        : "MD Shoriful Alam Robin",
+  location    : "🇧🇩 Bangladesh",
+  role        : "Full Stack Developer",
+  email       : "typicalrobin@gmail.com",
 
-**এই একটা URL দিয়ে সবকিছু করতে পারবে।**
+  languages   : ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
+  frontend    : ["React", "Next.js", "Tailwind CSS", "Redux"],
+  backend     : ["Node.js", "Express.js", "REST API", "GraphQL"],
+  database    : ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
+  tools       : ["Git", "GitHub", "VS Code", "Docker", "Postman", "Linux"],
+  learning    : ["DevOps", "AWS", "System Design"],
+
+  funFact     : "I debug with console.log() and I'm proud of it 😄",
+};
+```
 
 ---
 
-# 1️⃣ **DISCORD PROFILE-এ লাগাবো?** (সবচেয়ে সহজ)
+## 🛠️ Tech Stack
 
-## Step 1: Discord খোলো
-## Step 2: Profile খোলো (নিজের avatar এ ক্লিক করো)
-## Step 3: "Edit Profile" ক্লিক করো
-## Step 4: "About Me" section এ এটা paste করো:
+<div align="center">
 
-```
-https://github-readme-stats.vercel.app/api?username=md-shoriful-alam-robin&show_icons=true&theme=dark&count_private=true
-```
+### 🎨 Frontend
 
-## Step 5: Save করো - **Done!** ✅
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-**Result:** Discord profile-এ একটা সুন্দর image দেখা যাবে যা তোমার GitHub stats দেখাবে।
+### ⚙️ Backend & Database
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-# 2️⃣ **LINKEDIN-এ লাগাবো?** (একটু বেশি সহজ)
+### 🧰 Tools & Platforms
 
-## Step 1: LinkedIn খোলো
-## Step 2: Profile এ যাও
-## Step 3: "About" section খুঁজো
-## Step 4: Edit ক্লিক করো
-## Step 5: Text লিখো:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-```
-Check my GitHub Stats:
-
-https://github-readme-stats.vercel.app/api?username=md-shoriful-alam-robin&show_icons=true&theme=dark&count_private=true
-```
-
-## Step 6: Save করো - **Done!** ✅
-
-**Result:** LinkedIn profile এ link দেখা যাবে যা ক্লিক করলে image দেখা যাবে।
-
----
-
-# 3️⃣ **PERSONAL WEBSITE-এ লাগাবো?** (একটু technical)
-
-### যদি HTML ফাইল আছে:
-
-**Step 1:** HTML file খোলো (notepad বা code editor এ)
-
-**Step 2:** যেখানে GitHub stats দেখাতে চাও সেখানে এই code লেখো:
-
-```html
-<h2>📊 My GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=md-shoriful-alam-robin&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats">
-
-<h2>💻 Top Languages</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-shoriful-alam-robin&theme=dark&layout=compact" alt="Top Languages">
-```
-
-**Step 3:** File Save করো - **Done!** ✅
-
-### যদি WordPress website আছে:
-
-- Paragraph block এ paste করো:
-```
-https://github-readme-stats.vercel.app/api?username=md-shoriful-alam-robin&show_icons=true&theme=dark&count_private=true
-```
-
-- Publish করো - **Done!** ✅
+</div>
 
 ---
-
-# 4️⃣ **GITHUB PROFILE README-এ লাগাবো?** (সবচেয়ে প্রফেশনাল)
-
-### Step 1: এই link এ যাও:
-```
-https://github.com/md-shoriful-alam-robin/md-shoriful-alam-robin
-```
-
-### Step 2: আগে একটি repository তৈরি করতে হবে:
-- Repository name: `md-shoriful-alam-robin` (এটা GitHub তোমাকে suggest করবে)
-- "Public" রাখো
-- "README.md" checkbox mark করো
-- Create করো
-
-### Step 3: README.md এ edit করো
-### Step 4: নিচের code paste করো:
-
-```markdown
-# 👋 Hi, I'm MD SHORIFUL ALAM ROBIN
-
-Welcome to my GitHub profile!
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-shoriful-alam-robin&show_icons=true&theme=dark&count_private=true)
+<div align="center">
 
-## 💻 Top Languages
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=md-shoriful-alam-robin&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&ring_color=00ff88" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=md-shoriful-alam-robin&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-shoriful-alam-robin&theme=dark&layout=compact)
+<br/><br/>
 
----
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-shoriful-alam-robin&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 
-**Feel free to explore my projects and connect with me!**
-```
-
-### Step 5: Commit করো - **Done!** ✅
-
-**Result:** GitHub profile এ সুন্দর stats দেখা যাবে।
+</div>
 
 ---
 
-# 5️⃣ **TWITTER/X PROFILE-এ লাগাবো?**
+## 🏆 GitHub Trophies
 
-## Step 1: Twitter খোলো
-## Step 2: Edit Profile ক্লিক করো
-## Step 3: Bio section এ লিখো:
+<div align="center">
 
-```
-🧑‍💻 Developer | Power BI | Web Dev
-GitHub Stats: https://github-readme-stats.vercel.app/api?username=md-shoriful-alam-robin&show_icons=true&theme=dark
-```
+<img src="https://github-profile-trophy.vercel.app/?username=md-shoriful-alam-robin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 
-## Step 4: Save করো - **Done!** ✅
+</div>
 
 ---
 
-# 6️⃣ **DISCORD SERVER-এ একটি MESSAGE হিসেবে পোস্ট করবো?**
+## 📈 Contribution Graph
 
-## Step 1: Discord server খোলো
-## Step 2: কোন channel এ যাও
-## Step 3: Message লিখো:
+<div align="center">
 
-```
-📊 Check out my GitHub stats:
-https://github-readme-stats.vercel.app/api?username=md-shoriful-alam-robin&show_icons=true&theme=dark&count_private=true
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-shoriful-alam-robin&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff&hide_border=true" alt="Activity Graph" width="100%"/>
 
-## Step 4: Send করো - **Done!** ✅
+</div>
 
 ---
 
-# 🎨 **থিম পরিবর্তন করতে চাইলে:**
+## 🎯 Current Focus
 
-URL এর এই অংশ পরিবর্তন করো: `&theme=dark`
+<div align="center">
 
-### জনপ্রিয় থিম:
+| Icon | What I'm Up To |
+|:----:|:---------------|
+| 🔭 | Building full stack web applications |
+| 🌱 | Learning DevOps, AWS & System Design |
+| 👯 | Open to collaborating on open source projects |
+| 🤝 | Looking for freelance & job opportunities |
+| 💬 | Ask me about React, Node.js, MongoDB & REST APIs |
+| ⚡ | Fun fact: I turn ☕ coffee into clean code! |
 
-| থিম নাম | কীভাবে লিখবে | দেখতে কেমন |
-|---------|---------|---------|
-| ডার্ক (নীল) | `&theme=dark` | নীল/সবুজ, ডার্ক background |
-| রেডিক্যাল (রংধনু) | `&theme=radical` | রঙিন, উজ্জ্বল |
-| টোকিও নাইট (জাপানি) | `&theme=tokyonight` | গাঢ় নীল, ভায়োলেট |
-| মার্কো (সবুজ) | `&theme=merko` | সবুজ, মিনিমালিস্ট |
-| লাইট (হালকা) | `&theme=light` | হালকা ব্যাকগ্রাউন্ড |
-
-### Example - রেডিক্যাল থিম:
-```
-https://github-readme-stats.vercel.app/api?username=md-shoriful-alam-robin&show_icons=true&theme=radical&count_private=true
-```
+</div>
 
 ---
 
-# ✅ **সবচেয়ে সহজ চেকলিস্ট:**
+## 📬 Connect With Me
 
-- [ ] URL copy করেছি: `https://github-readme-stats.vercel.app/api?username=md-shoriful-alam-robin&show_icons=true&theme=dark&count_private=true`
-- [ ] Discord এ paste করেছি (optional)
-- [ ] LinkedIn এ paste করেছি (optional)
-- [ ] Website এ HTML code দিয়েছি (optional)
-- [ ] GitHub Profile README তে paste করেছি (recommended)
-- [ ] Save করেছি সব জায়গায়
+<div align="center">
 
----
+<a href="mailto:typicalrobin@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://github.com/md-shoriful-alam-robin">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/md-shoriful-alam-robin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://facebook.com/md-shoriful-alam-robin">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
 
-# ❓ **কোন সমস্যা হলে:**
-
-### সমস্যা 1: Image দেখা যাচ্ছে না
-- **সমাধান:** Browser refresh করো (Ctrl+R বা Cmd+R)
-- **বা:** Cache clear করো এবং আবার চেষ্টা করো
-
-### সমস্যা 2: Link কাজ করছে না
-- **সমাধান:** URL টা ভালোভাবে copy করেছো কিনা দেখো
-- **বা:** Username ঠিক আছে কিনা দেখো (`md-shoriful-alam-robin`)
-
-### সমস্যা 3: থিম পরিবর্তন হচ্ছে না
-- **সমাধান:** `&theme=dark` এর জায়গায় অন্য থিম নাম লিখো
-- **বা:** Cache clear করে আবার চেষ্টা করো
+</div>
 
 ---
 
-# 🎯 **সবচেয়ে ভালো Setup (সব জায়গায়):**
+<div align="center">
 
-1. **GitHub Profile README** ← সবচেয়ে important
-2. **LinkedIn** ← প্রফেশনাল
-3. **Discord** ← casual
-4. **Website** ← যদি আছে
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
----
+**⭐ If you like my work, consider giving a star to my repositories!**
 
-# 📌 **Copy-Paste এর জন্য (সরাসরি ব্যবহার করো):**
+*Made with ❤️ by MD Shoriful Alam Robin from Bangladesh 🇧🇩*
 
-### Main Stats URL:
-```
-https://github-readme-stats.vercel.app/api?username=md-shoriful-alam-robin&show_icons=true&theme=dark&count_private=true
-```
-
-### Top Languages URL:
-```
-https://github-readme-stats.vercel.app/api/top-langs/?username=md-shoriful-alam-robin&theme=dark&layout=compact
-```
-
-### GitHub README Format (সম্পূর্ণ):
-```markdown
-# 👋 Hi, I'm MD SHORIFUL ALAM ROBIN
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-shoriful-alam-robin&show_icons=true&theme=dark&count_private=true)
-
-## 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-shoriful-alam-robin&theme=dark&layout=compact)
-```
-
----
-
-**এখন যাও এবং সবজায়গায় লাগিয়ে ফেলো! 🚀**
-
-কোন প্রশ্ন থাকলে বলিও। আমি আছি! 😊
+</div>
