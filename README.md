@@ -159,7 +159,7 @@ const robin = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
-**⭐ If you like my work, consider giving a star to my repositories!**
+**⭐ If You Like My Work, consider giving a star to my repositories!**
 
 *Made with ❤️ by MD Shoriful Alam Robin from Bangladesh 🇧🇩*
 
