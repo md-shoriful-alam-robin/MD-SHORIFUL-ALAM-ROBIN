@@ -34,7 +34,7 @@ const robin = {
   tools       : ["Git", "GitHub", "VS Code", "Docker", "Postman", "Linux"],
   learning    : ["DevOps", "AWS", "System Design"],
 
-  funFact     : "I debug with console.log() and I'm proud of it 😄",
+  funFact     : "I debug with console.log() and I'm proud of it 👍",
 };
 ```
 
